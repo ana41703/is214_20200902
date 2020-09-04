@@ -20,7 +20,7 @@
             <asp:Label runat="server" ID="label5" Text="所属部署"></asp:Label>
             <asp:DropDownList ID="DropDownList1" runat="server">
                   <asp:ListItem Value="選択してください"> </asp:ListItem>
-                  <asp:ListItem Value="総務部"> Silver </asp:ListItem>
+                  <asp:ListItem Value="総務部"> Silver1 </asp:ListItem>
                   <asp:ListItem Value="人事部rkGray"> Dark Gray </asp:ListItem>
                   <asp:ListItem Value="管理部"> Khaki </asp:ListItem>
                   <asp:ListItem Value="法務部"> Dark Khaki </asp:ListItem>
